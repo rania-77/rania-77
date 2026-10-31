@@ -19,4 +19,4 @@ I'm an Artificial Intelligence undergraduate at Universiti Teknologi Malaysia (U
 - 1st Place — AI for Content Generation Competition (2026)
 
 ### Connect With Me
-LinkedIn: [Add your current LinkedIn profile URL]
+LinkedIn: www.linkedin.com/in/raniaarditri
