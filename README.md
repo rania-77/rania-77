@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rania! 👋
 
-<!--
-**rania-77/rania-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence undergraduate at Universiti Teknologi Malaysia (UTM), Kuala Lumpur.
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Machine Learning
+- Artificial Neural Networks
+- Reinforcement Learning
+- Data Analytics
+- Applied AI Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Projects
+- Pile Bearing Capacity Prediction using ANN, GA, and GA-ANN
+- PDA Data Analytics and Machine Learning
+
+### Academic Highlights
+- CGPA: 3.91/4.00
+- Dean's List Award (2025)
+- 1st Place — AI for Content Generation Competition (2026)
+
+### Connect With Me
+LinkedIn: [Add your current LinkedIn profile URL]
