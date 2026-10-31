@@ -12,6 +12,7 @@ I'm an Artificial Intelligence undergraduate at Universiti Teknologi Malaysia (U
 ### Selected Projects
 - Pile Bearing Capacity Prediction using ANN, GA, and GA-ANN
 - PDA Data Analytics and Machine Learning
+- Lightweight Mortar Strength Prediction & Optimization 
 
 ### Academic Highlights
 - CGPA: 3.91/4.00
